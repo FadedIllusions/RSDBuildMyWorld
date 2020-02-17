@@ -8,3 +8,6 @@ Our simulated environment was to follow the following guidelines:
   * Import our structure and model into an empty Gazebo world.
   * Import at least one model from Gazebo online library
   * Write a C++ World Plugin to display "Welcome to 's World!", within the terminal, upon launching the world file.
+
+
+![](images/world.png)
